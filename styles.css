@@ -1,0 +1,19 @@
+#dados{
+    float: right;
+    width: 55%;
+    margin-top: 3%;
+}
+#instrucoes{
+    padding: 10px;
+    float: left;
+    width: 30%;
+}
+#tituloInstrucao{
+    font:bolder;
+    width: 27%;
+    margin: auto;
+    font-size: 30;    
+}
+.textoInst{
+    font-size: 18;
+}
